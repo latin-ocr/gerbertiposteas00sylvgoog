@@ -1,0 +1,57 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Gradua'te Library
+University of Michigan
+
+I’rescrvarion Officc
+
+Storage Number:
+
+ABV8574
+
+UL FMT B RT a BL m TlC DT 07s18s88 RJDT 04s30s99 CC STAT mm EJL 1
+
+035s1: : Ι a (RLIN)MIUG86-B59896
+
+035s2: ε Ι a (CaOTULAS)160218011
+
+040: : {aMnU chnU {dMiU
+
+10020: [aSyIvester lb IL Ιε Ρορε, {d ca. 945-1003.
+
+245:00: Ι a Gerberti, postea Silvestri IL papae! Opera mathematica (972-1003)
+
+Ι b Accedunt aliorum opera ad Gerberti libellos aesrimandos intelligendosque
+necessaria per septem appendices distributa⁴ Ιε Collegits ad fidem codicum
+manuscriptorum partim iterum! partim primum edidit! apparatu critico instruxit!
+commentario auxit, figuris illusixavit dr, Nicolaus Bubnov.
+
+260: 1 Ι a Berolini: {b R. Friedlander und Sohn‘ Ιε 1899.
+
+300s1: : la cxix] [2], 620 p⁴ {b 4 pl. Ιε 24 cm.
+
+500s1: : Ι a ⁰1. Index compendiorum. ΙΙ, Index librorum manuscriptorum! hoc
+opuscula laudatorum: Ι, Secundum ordinem! quo in codicibus exstant. 2. Index
+systematicum. 3. Index catalogorum codicum manuscriptorum! quos evolvi)¹ p* xv-
+cxix.
+
+650s1: 0: Ι a Arithmefic 1)( Early works to 1900.
+
+650s2: 0: [a Mathematics Ιχ Early works to 1800.
+
+700s121 : la Bubnow Nikolaj Mikhailovich, {d 1858- {e ed.
+
+740s210 ε la Opera mathematica (972-1003)
+
+Scanned by Imagenes Digitales
+Nogales, ΑΖ
+
+On behalf of
+Preservation Division
+The University of Michigan Libraries
+
+Date work Began:
+Camera Operator:
+
+ 
+
